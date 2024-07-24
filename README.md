@@ -1,5 +1,5 @@
 # sobre mim
-- 🖤 Oie, me chamo *Noah*
+- 🖤 Oie!, me chamo *Noah*
 - 🐈‍⬛ Estou interessado em aprender páginas web.
 - 🕸 Atualmente estou aprendendo a programar jogos no Scratch e JavaScript.
 - 🍫 Pode me econtrar em: redes sociais.
