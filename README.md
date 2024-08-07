@@ -6,7 +6,7 @@
 - 🎭 Pronomes: elu/delu.
 - ⚡ Fatos Sobre Mim: Gosto doces, músicas internacioais, jogos e energetico.
 
-- 
+
 
 ![](https://tenor.com/pt-BR/view/princess-rapunzel-playing-guitar-gif-12458315388461073203)
 
