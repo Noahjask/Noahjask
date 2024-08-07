@@ -8,7 +8,7 @@
 
 
 
-![](https://tenor.com/pt-BR/view/cat-cute-kitten-kitty-gif-3939146253792686449.gif)
+![](https://tenor.com/pt-BR/view/cat-walking-cute-black-cat-gif-15034669.gif)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
