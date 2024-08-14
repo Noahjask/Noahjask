@@ -4,7 +4,7 @@
 - 🕸 Atualmente estou aprendendo a programar jogos no Scratch e JavaScript.
 - 🍫 Pode me econtrar em: redes sociais.
 - 🎭 Pronomes: elu/delu.
-- ⚡ Fatos Sobre Mim: Gosto doces, músicas internacioais, jogos e energetico.
+- ⚡ Fatos Sobre Mim: Gosto de doces, músicas internacioais, jogos e energetico.
 
 
 
